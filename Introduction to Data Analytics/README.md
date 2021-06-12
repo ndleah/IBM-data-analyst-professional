@@ -1,7 +1,10 @@
+ [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/nduongthucanh?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/nduongthucanh) 
+
 # IBM Professional Course Project : House-Sales-in-Kings-County-USA-IBM-Data-Analysis-with-Python
 
 <p align="center">
-  <img width="100%" height="100%" src="https://i.imgur.com/YCFnjvg.png">
+  <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" alt="IBM Data Science Professional Certificate" height="70%" width="70%">
 </p>
 
 ### Libraries Used : Pandas, Matplotlib, Seaborn, NumPy, sklearn
