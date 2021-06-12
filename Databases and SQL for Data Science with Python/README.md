@@ -15,65 +15,9 @@ No prior knowledge of databases, SQL, Python, or programming is required.
 
 Anyone can audit this course at no-charge. If you choose to take this course and earn the Coursera course certificate, you can also earn an IBM digital badge upon successful completion of the course.
 
-## Syllabus
-
-### WEEK 1
-
-#### Introduction to Databases and Basic SQL
-
-* **Key Concepts**
-    * Explain SQL and Relational Databases
-    * Create a database instance on the Cloud
-    * Learn how to write basic SQL statements
-    * Practice basic SQL statements hands-on on a live database
-
-#### In Week 1 you will be introduced to databases. You will create a database instance on the cloud. You will learn some of the basic SQL statements. You will also write and practice basic SQL hands-on on a live database.
-
-**Graded:** Databases\
-**Graded:** Basic SQL
-
-### WEEK 2
-
-#### Advanced SQL
-
-* **Key Concepts**
-    * Explain how to use string patterns and ranges in SQL queries
-    * Demonstrate how to sort and order result sets
-    * Practice use of grouping data in result sets
-    * Employ Built-in functions in Queries
-    * Demonstrate how to write sub-queries and nested selects
-    * Build queries to access multiple tables
-
-#### By the end of this module, you will learn the following: (1) Learn how to use string patterns and ranges to search data and how to sort and group data in result sets. (2) Learn how to work with multiple tables in a relational database using join operations.
-
-**Graded:** String Patterns, Ranges, Sorting and Grouping\
-**Graded:** Functions, Sub-Queries, Multiple Tables
-
-### WEEK 3
-
-#### Accessing Databases using Python
-
-* **Key Concepts**
-    * Describe concepts related to accessing Databases using Python
-    * Learn and Practice how to connect to a database from a Jupyter notebook
-    * Understand and demonstrate how to create tables and insert data from Python
-    * Write SQL queries and retrieve result sets from Python
-    * Practice how to perform simplified database access from Python using SQL magic
-    * Enumerate different type of JOIN operations
-    * Explain what is an INNER JOIN and practice hands-on
-    * Distinguish between different types of OUTER JOINs and apply your understanding
-
-#### After completing the lessons in this week, you will learn how to explain the basic concepts related to using Python to connect to databases and then create tables, load data, query data using SQL, and analyze data using Python
-
-**Graded:** Database access from Python
-
-### WEEK 4
-
-#### Course Assignment
-
-* **Key Concepts**
-    * Demonstrate effective use of formulating SQL queries
-    * Demonstrate use of invoking SQL queries from Jupyter notebooks using Python
-    * Demonstrate skill in retrieving SQL query results and analyzing data
-
-#### As a hands-on Data Science assignment, you will be working with multiple real world datasets for the city of Chicago. You will be asked questions that will help you understand the data just like a data scientist would. You will be assessed both on the correctness of your SQL queries and results.
+## Final Course Assignment
+This folder contains data files and a Jupyter Notebook script that demonstrates use of a variety of SQL commands to query the three datasets.  
+* _Census_Data.csv_ contains six socioeconomic indicators of public health significance and a “hardship index,” by Chicago community area, for the years 2008 – 2012. For more detailed information, see the [data description](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2).  
+* _Chicago_Crime_Data.csv_ reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. For more detailed information, see the [data description](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2).  
+* _Chicago_Public_Schools.csv_ shows all school level performance data used to create CPS School Report Cards for the 2011-2012 school year. For more detailed information, see the [data description](https://data.cityofchicago.org/Education/Chicago-Public-Schools-Progress-Report-Cards-2011-/9xs2-f89t).  
+* _Chicago_Datasets_PeerAssign-v5.ipynb_ contains the script with ipython-sql code, which is used to query the datasets after they were loaded into a Db2 database on IBM Cloud.
