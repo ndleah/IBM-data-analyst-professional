@@ -27,7 +27,7 @@ This course is designed to provide you with basic working knowledge for using Ex
 
 This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. 
 
-- [ ] __Python for Data Science and AI__
+- [x] __Python for Data Science and AI__
 
 Kickstart your learning of Python for data science, as well as programming in general, with this beginner-friendly introduction to Python. Python is one of the world’s most popular programming languages, and there has never been greater demand for professionals with the ability to apply Python fundamentals to drive business solutions across industries. 
 
