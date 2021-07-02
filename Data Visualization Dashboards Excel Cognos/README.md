@@ -10,17 +10,26 @@ This course covers some of the first steps in the development of data visualizat
 ## Assets
 
 * ### **Excel Dashboard**
-<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/W2Dashboard.PNG" align="center" />
+<p align="center">
+<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/W2Dashboard.PNG" width=100% height=100%>
 
-<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Excel_FA.PNG" align="center" />
+<p align="center">
+<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Excel_FA.PNG" width=100% height=100%>
 
 * ### **IBM Cognos Dashboard**
-<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Basic_1.PNG" align="center" />
 
-<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Basic_2.PNG" align="center" />
+<p align="center">
+<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Basic_1.PNG" width=100% height=100%>
 
-<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Advanced.PNG" align="center" />
+<p align="center">
+<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Basic_2.PNG" width=100% height=100%>
 
-<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_FA_1.PNG" align="center" />
+<p align="center">
+<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Advanced.PNG" width=100% height=100%>
 
-<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_FA_2.PNG" align="center" />
+<p align="center">
+<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_FA_1.PNG" width=100% height=100%>
+
+
+<p align="center">
+<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/tree/main/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_FA_2.PNG" width=100% height=100%>
