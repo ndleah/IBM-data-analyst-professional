@@ -18,7 +18,7 @@ There are 9 Courses in this Professional Certificate Specialization are as follo
 This course presents a gentle introduction into the concepts of data analysis, the role of a Data Analyst, and the tools that are used to perform daily functions. You will gain an understanding of the data ecosystem and the fundamentals of data analysis, such as data gathering or data mining.
 
 <p align="center">
-<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/certificate/Intro%20to%20Data%20Analysis-1.png" width=100% height=100%>
+<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/certificate/Intro%20to%20Data%20Analysis-1.png" width=60% height=60%>
 
 
 - [x] __Excel Basics for Data Analysis__
@@ -26,7 +26,7 @@ This course presents a gentle introduction into the concepts of data analysis, t
 This course is designed to provide you with basic working knowledge for using Excel spreadsheets for Data Analysis. It covers some of the first steps for working with spreadsheets and their usage in the process of analyzing data.  It includes plenty of videos, demos, and examples for you to learn, followed by step-by-step instructions for you to apply and practice on a live spreadsheet.
 
 <p align="center">
-<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/certificate/Excel%20Basic%20for%20Data%20Analysis-1.png" width=100% height=100%>
+<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/certificate/Excel%20Basic%20for%20Data%20Analysis-1.png" width=60% height=60%>
 
 
 - [X] __Data Visualization and Dashboards with Excel and Cognos__ 
@@ -34,21 +34,21 @@ This course is designed to provide you with basic working knowledge for using Ex
 This course covers some of the first steps in the development of data visualizations using spreadsheets and dashboards. 
 
 <p align="center">
-<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/certificate/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos-1.png" width=100% height=100%>
+<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/certificate/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos-1.png" width=60% height=60%>
 
 - [x] __Python for Data Science and AI__
 
 Kickstart your learning of Python for data science, as well as programming in general, with this beginner-friendly introduction to Python. Python is one of the world’s most popular programming languages, and there has never been greater demand for professionals with the ability to apply Python fundamentals to drive business solutions across industries. 
 
 <p align="center">
-<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/certificate/Python%20for%20AI%2C%20Data%20Science%20Development-1.png" width=100% height=100%>
+<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/certificate/Python%20for%20AI%2C%20Data%20Science%20Development-1.png" width=60% height=60%>
 
 - [X] __Python Project for Data Science__
 
 This mini-course is intended to for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple dashboard using Python.
 
 <p align="center">
-<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/certificate/Python%20Project%20for%20Data%20Science%20AI-1.png" width=100% height=100%>
+<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/certificate/Python%20Project%20for%20Data%20Science%20AI-1.png" width=60% height=60%>
 
 
 - [x] __Databases and SQL for Data Science__
@@ -56,7 +56,7 @@ This mini-course is intended to for you to demonstrate foundational Python skill
 The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.  
 
 <p align="center">
-<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/certificate/Database%20SQL%20Data%20Science-1.png" width=100% height=100%>
+<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/certificate/Database%20SQL%20Data%20Science-1.png" width=60% height=60%>
 
 - [x] __Data Analysis with Python__
 
@@ -70,7 +70,7 @@ Learn how to analyze data using Python. Topics covered:
 6) Building data pipelines
 
 <p align="center">
-<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/certificate/Data%20Analysis%20with%20Python-1.png" width=100% height=100%>
+<img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/certificate/Data%20Analysis%20with%20Python-1.png" width=60% height=60%>
 
 - [x] __Data Visualization with Python__
 
