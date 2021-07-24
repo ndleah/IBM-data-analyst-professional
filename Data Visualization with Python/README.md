@@ -83,3 +83,27 @@ The main goal of this Data Visualization with Python course is to teach you how 
 
 <p align="center">
 <img src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_105_1.png" width=60% height=60%>
+
+---
+
+* ### **Basic Plotly Charts**
+<p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot.png" width=60% height=60%>
+
+<p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(1).png" width=60% height=60%>
+
+<p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(2).png" width=60% height=60%>
+
+<p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(3).png" width=60% height=60%>
+
+<p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(4).png" width=60% height=60%>
+
+<p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(5).png" width=60% height=60%>
+
+<p align="center">
+<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(6).png" width=60% height=60%>
