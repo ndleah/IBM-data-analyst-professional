@@ -1,8 +1,7 @@
- [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/nduongthucanh?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/nduongthucanh) 
+ [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ndleah?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ndleah) 
 
 # Databases and SQL for Data Science <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
-
 
 ## About this Course
 
@@ -19,37 +18,37 @@ This folder contains data files and a Jupyter Notebook script that demonstrates 
 
 ## Solutions
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q1.PNG">
+  <img width="100%" height="100%" src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q1.PNG">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q2.PNG">
+  <img width="100%" height="100%" src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q2.PNG">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q3.PNG">
+  <img width="100%" height="100%" src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q3.PNG">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q4.PNG">
+  <img width="100%" height="100%" src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q4.PNG">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q5.PNG">
+  <img width="100%" height="100%" src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q5.PNG">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q6.PNG">
+  <img width="100%" height="100%" src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q6.PNG">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q7.PNG">
+  <img width="100%" height="100%" src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q7.PNG">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q8.PNG">
+  <img width="100%" height="100%" src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q8.PNG">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="https://github.com/nduongthucanh/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q9.PNG">
+  <img width="100%" height="100%" src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/IMG/Q9.PNG">
 </p>
