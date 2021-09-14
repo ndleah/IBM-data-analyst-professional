@@ -12,61 +12,61 @@ The main goal of this Data Visualization with Python course is to teach you how 
 
 * ### **Introduction to Matplotlib and Line Plots**
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Introduction-to-Matplotlib-and-Line-Plots/output_91_0.png" width=60% height=60%>
+<img src="Data%20Visualization%20with%20Python/IMG/Introduction-to-Matplotlib-and-Line-Plots/output_91_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Introduction-to-Matplotlib-and-Line-Plots/output_103_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Introduction-to-Matplotlib-and-Line-Plots/output_103_0.png" width=60% height=60%>
 
 ---
 
 * ### **Exercise Area Plots Histograms and Bar Charts**
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_41_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_41_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_43_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_43_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_46_1.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_46_1.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_51_1.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_51_1.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_62_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_62_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_77_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_77_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_86_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_86_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_92_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_92_0.png" width=60% height=60%>
 
 ---
 
 * ### **Pie Charts, Box Plots, Scatter Plots and Bubble-Plots**
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_26_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_26_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_28_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_28_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_36_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_36_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_47_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_47_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_51_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_51_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_54_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_54_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_67_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_67_0.png" width=60% height=60%>
 
 <p align="center">
 <img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_78_0.png" width=60% height=60%>
@@ -75,34 +75,34 @@ The main goal of this Data Visualization with Python course is to teach you how 
 <img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_83_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_90_0.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_90_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_98_1.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_98_1.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_105_1.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_105_1.png" width=60% height=60%>
 
 ---
 
 * ### **Basic Plotly Charts**
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot.png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(1).png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(1).png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(2).png" width=60% height=60%>
+<img src="/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(2).png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(3).png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(3).png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(4).png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(4).png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(5).png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(5).png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(6).png" width=60% height=60%>
+<img src="/Data%20Visualization%20with%20Python/IMG/Basic_Plotly/newplot%20(6).png" width=60% height=60%>
